@@ -12,7 +12,7 @@ Eu sou o Matheus Dias, sou um Programador Front End, atualmente estou aprendendo
 
 • 💙 Aluno Dev Club 
 <br>
-• 💻 Graduado em Ciência da Computação 
+• 💻 Graduado em Ciência da Computação pela FATECE
 <br>
 • 🌍 Atualmente morando em Pirassununga-SP
 <br>
