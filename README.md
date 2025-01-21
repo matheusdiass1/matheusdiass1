@@ -32,7 +32,7 @@ Redes Sociais:
 <br>
 
 
-[![Matheus Stats](https://github-readme-stats.vercel.app/api?username=matheusdiass1icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Matheus Stats](https://github-readme-stats.vercel.app/api?username=matheusdiass1)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 [![Matheus Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiass1)](https://github.com/anuraghazra/github-readme-stats)
