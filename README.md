@@ -16,7 +16,7 @@ Eu sou o Matheus Dias, sou um Programador Front End, atualmente estou aprendendo
 <br>
 • 🌍 Atualmente morando em Pirassununga-SP
 <br>
-• 📧 Você pode entrar em contato comigo em omatheus189@gmail.com
+• 📧 Você pode entrar em contato comigo em matheus_oliveiradias@hotmail.com
 <br>
 <br>
 
