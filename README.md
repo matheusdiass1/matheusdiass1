@@ -35,6 +35,5 @@ Redes Sociais:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdiass1&show_icons=true&theme=tokyonight&locale=pt-br)
 <br>
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiass1&theme=tokyonight&custom_title=Tecnologias&langs_count=9)
