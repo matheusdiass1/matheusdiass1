@@ -22,11 +22,11 @@ Eu sou o Matheus Dias, sou um Programador Front End, atualmente estou aprendendo
 
 Redes Sociais:
 
-<a href="https://www.linkedin.com/in/matheus-oliveira-882266250" target="_blank">
-<img align="left" alt="imagem-linkedin" width="32px" src="https://img.icons8.com/?size=512&id=13930&format=png" a/>
+<a href="https://www.linkedin.com/in/matheus-oliveira-dias/" target="_blank">
+<img align="left" alt="imagem-linkedin" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" a/>
 
 <a href="https://www.instagram.com/matt_oliveira1/" target="_blank">
-<img align="left" alt="imagem-insta" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" a/>
+<img align="left" alt="imagem-insta" width="160px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" a/>
 <br>
 <br>
 <br>
