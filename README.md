@@ -31,21 +31,8 @@ Redes Sociais:
 <br>
 <br>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusdiass1&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-  
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiass1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdiass1&show_icons=true&theme=tokyonight&locale=pt-br)
+<br>
+<br>
 
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiass1&theme=tokyonight&custom_title=Tecnologias&langs_count=9)
