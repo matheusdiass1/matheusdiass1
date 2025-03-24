@@ -25,7 +25,7 @@ Redes Sociais:
   <a href="https://www.linkedin.com/in/matheus-oliveira-dias/ target="_blank">
 <img align="left"  width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" a/>
 
-<a href="https://www.instagram.com/matt_oliveira1/ target="_blank">
+<a href="https://www.instagram.com/matt_oliveira1/" target="_blank">
 <img align="left"  width="160px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" a/>
 <br>
 <br>
