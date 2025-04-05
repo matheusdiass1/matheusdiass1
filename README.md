@@ -31,7 +31,7 @@
 
 
 
-Redes Sociais:
+<h2>🌐 Redes Sociais:</h2>  
 <div>
   <a href="https://www.linkedin.com/in/matheus-oliveira-dias/ target="_blank">
 <img align="left"  width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" a/>
