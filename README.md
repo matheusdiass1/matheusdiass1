@@ -1,14 +1,23 @@
-## Olá 👋
+## <h1>Olá 👋</h1>
 
-Eu sou o Matheus Dias, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
-<br>
-<br>
+<p>Eu sou o Matheus Dias, sou um Programador Front End em Transição de Carreira.</p>
+  <h2>🛠️ Tecnologias que estou usando:</h2>
+
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 
   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
+  - <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+
+  <h2>📚 Proximos Estudos:</h2>
+
+- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+
+- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+
+<h2>💬 Sobre</h2>
 
 • 💙 Aluno Dev Club 
 <br>
@@ -19,6 +28,8 @@ Eu sou o Matheus Dias, sou um Programador Front End, atualmente estou aprendendo
 • 📧 Você pode entrar em contato comigo em matheus_oliveiradias@hotmail.com
 <br>
 <br>
+
+
 
 Redes Sociais:
 <div>
