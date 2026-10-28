@@ -26,6 +26,12 @@ Me chamo **Matheus Oliveira**, desenvolvedor em formação, apaixonado por trans
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519971403119)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omatheus189@gmail.com)
 
----
+## 📊 Estatísticas do GitHub
+
+  <p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=matheusdiass1&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiass1&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 
 ⭐ Fique à vontade para explorar meus repositórios e deixar uma estrela nos projetos que gostar!
