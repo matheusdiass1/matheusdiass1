@@ -29,7 +29,6 @@ Me chamo **Matheus Oliveira**, desenvolvedor em formação, apaixonado por trans
 ## 📊 Estatísticas do GitHub
 
   <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=matheusdiass1&show_icons=true&theme=dark&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiass1&layout=compact&theme=dark&hide_border=true" />
 </p>
 
